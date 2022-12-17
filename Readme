@@ -1,0 +1,11 @@
+.
+├── flask_app 
+│   ├── app.py          
+│   ├── wsgi.py
+│   └── Dockerfile
+├── nginx
+│   ├── nginx.conf          
+│   ├── project.conf
+│   └── Dockerfile
+├── docker-compose.yml
+└── run_docker.sh
